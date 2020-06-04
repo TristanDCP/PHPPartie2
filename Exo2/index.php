@@ -20,6 +20,8 @@ if ($isEasy == true){
 } else {
     echo "C'est difficile !!!.";
 }
+
+// echo ($isEasy) ? 'c'est facile!!' : 'c'est difficile !!!';
     ?>
 </body>
 </html>
